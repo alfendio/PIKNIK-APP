@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">PIKNIK</string>
+
+    <string name="piknik1">Candi Borobudur</string>
+    <string name="deskripsi1">Candi Borobudur adalah sebuah candi Buddha yang terletak di Borobudur, Magelang, Jawa Tengah, Indonesia. Candi ini terletak kurang lebih 100 km di sebelah barat daya Semarang, 86 km di sebelah barat Surakarta, dan 40 km di sebelah barat laut Yogyakarta.</string>
+
+    <string name="piknik_name">Tempat Wisata</string>
+    <string name="description">Deskripsi</string>
+    <string name="share">Bagikan</string>
+
+    <string name="self">Alfendio Alif Faudisyah</string>
+    <string name="email">alfendioaliff@gmail.com</string>
+
+    <string name="profile">About</string>
+
+    <string-array name="data_name">
+        <item>Candi Borobudur</item>
+        <item>Gunung Bromo</item>
+        <item>Danau Toba</item>
+        <item>Taman Budaya Garuda Wisnu Kencana</item>
+        <item>Labuan Bajo</item>
+        <item>Lawang Sewu</item>
+        <item>Air Terjun Madakaripura</item>
+        <item>Kepulauan Raja Ampat</item>
+        <item>Gunung Rinjani</item>
+        <item>Kampung Wisata Taman Sari</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Candi Borobudur adalah sebuah candi Buddha yang terletak di Borobudur, Magelang, Jawa Tengah, Indonesia. Candi ini terletak kurang lebih 100 km di sebelah barat daya Semarang, 86 km di sebelah barat Surakarta, dan 40 km di sebelah barat laut Yogyakarta.</item>
+        <item>Gunung Bromo atau dalam bahasa Tengger dieja "Brama", juga disebut Kaldera Tengger, adalah sebuah gunung berapi aktif di Jawa Timur, Indonesia. Gunung Bromo terletak di Kabupaten Probolinggo. Gunung Bromo memiliki ketinggian sekitar 2392 mdpl.</item>
+        <item>Danau Toba adalah danau alami berukuran besar di Indonesia yang berada di kaldera gunung supervulkan. Danau ini memiliki panjang 100 kilometer, lebar 30 kilometer, dan kedalaman 508 meter. Danau ini terletak di tengah pulau Sumatra bagian utara dengan ketinggian permukaan sekitar 900 meter.</item>
+        <item>Taman Budaya Garuda Wisnu Kencana, atau kerap disebut dengan GWK, adalah sebuah taman wisata budaya di bagian selatan pulau Bali. Patung Garuda Wisnu Kencana ini merupakan simbol dari misi penyelamatan lingkungan dan dunia. Patung ini terbuat dari campuran tembaga dan baja seberat 4.000 ton, dengan tinggi 76 meter dan lebar 66 meter.</item>
+        <item>Labuan Bajo merupakan salah satu kelurahan yang berada di Kecamatan Komodo, Kabupaten Manggarai Barat, Provinsi Nusa Tenggara Timur, Indonesia. Labuan Bajo juga merupakan pusat pemerintahan dari Kecamatan Komodo dan sekaligus merupakan ibu kota Kabupaten Manggarai Barat.</item>
+        <item>Lawang Sewu adalah museum perkeretaapian di Semarang, Jawa Tengah. Nama Lawang Sewu berasal dari bahasa Jawa yang berarti "seribu pintu". Nama ini diberikan karena bangunan ini memiliki banyak jendela dan pintu, meskipun jumlahnya tidak sampai seribu. Lawang Sewu dibangun pada 1904 dan selesai pada 1907 pada masa kolonial Belanda. Bangunan ini awalnya digunakan sebagai kantor pusat perusahaan kereta api swasta Nederlandsch-Indische Spoorweg Maatschappij (NISM).</item>
+        <item>Air terjun Madakaripura adalah sebuah air terjun yang terletak di Kabupaten Probolinggo, Provinsi Jawa Timur. Air terjun setinggi 200 meter ini merupakan air terjun tertinggi di Pulau Jawa dan tertinggi kedua di Indonesia. Air terjun ini juga dikenal sebagai Air Terjun Abadi karena debit airnya yang selalu melimpah, meskipun pada musim kemarau. Air terjun ini juga dipercaya sebagai tempat bertapa Mahapatih Majapahit, Gajah Mada.</item>
+        <item>Kepulauan Raja Ampat adalah gugusan kepulauan yang berlokasi di barat bagian Semenanjung Kepala Burung Pulau Papua. Secara administrasi, gugusan ini berada di bawah Kabupaten Raja Ampat dan Kota Sorong, Provinsi Papua Barat Daya. Gugusan karang menjadi ciri khas utama permukaan Raja Ampat Pemandangan yang akan di jumpai ketika kita menjelajah di Raja Ampat. Raja Ampat adalah surga tersembunyi di timur Indonesia Gugusan pulau cantik yang bernama Piaynemo.</item>
+        <item>Gunung Rinjani adalah gunung yang berlokasi di Pulau Lombok, Nusa Tenggara Barat. Gunung yang merupakan gunung berapi kedua tertinggi di Indonesia dengan ketinggian 3.726 mdpl ini merupakan gunung favorit bagi pendaki Indonesia karena keindahan pemandangannya.</item>
+        <item>Tamansari, yang berarti taman yang indah, pada mulanya merupakan sebuah taman atau kebun istana Keraton Yogyakarta. Kompleks ini dibangun secara bertahap pada masa Sri Sultan Hamengku Buwono I. Pembangunan dimulai pada tahun 1758 M, ditandai oleh candra sengkala "Catur Naga Rasa Tunggal" yang menunjuk tahun 1684 Jawa. Tamansari memiliki luas lebih dari 10 hektar dengan 57 bangunan di dalamnya. Bangunan-bangunan tersebut berbentuk gedung, kolam pemandian, jembatan gantung, kanal air, danau buatan, pulau buatan, masjid, dan lorong bawah tanah.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/borobudur</item>
+        <item>@drawable/bromo</item>
+        <item>@drawable/danau_toba</item>
+        <item>@drawable/gwk</item>
+        <item>@drawable/labuan_bajo</item>
+        <item>@drawable/lawang_sewu</item>
+        <item>@drawable/madakaripura</item>
+        <item>@drawable/raja_ampat</item>
+        <item>@drawable/rinjani</item>
+        <item>@drawable/taman_sari</item>
+    </integer-array>
+
+
+</resources>
