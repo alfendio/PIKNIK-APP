@@ -5,6 +5,7 @@
     <string name="deskripsi1">Candi Borobudur adalah sebuah candi Buddha yang terletak di Borobudur, Magelang, Jawa Tengah, Indonesia. Candi ini terletak kurang lebih 100 km di sebelah barat daya Semarang, 86 km di sebelah barat Surakarta, dan 40 km di sebelah barat laut Yogyakarta.</string>
 
     <string name="piknik_name">Tempat Wisata</string>
+    <string name="Rate">Rating</string>
     <string name="description">Deskripsi</string>
     <string name="share">Bagikan</string>
 
@@ -52,5 +53,17 @@
         <item>@drawable/taman_sari</item>
     </integer-array>
 
+    <string-array name="data_rate">
+        <item>★★★★★</item>
+        <item>★★★★★</item>
+        <item>★★★★★</item>
+        <item>★★★★★</item>
+        <item>★★★★★</item>
+        <item>★★★★☆</item>
+        <item>★★★★★</item>
+        <item>★★★★★</item>
+        <item>★★★★★</item>
+        <item>★★★★☆</item>
+    </string-array>
 
 </resources>

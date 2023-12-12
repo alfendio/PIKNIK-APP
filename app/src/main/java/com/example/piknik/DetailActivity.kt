@@ -28,6 +28,7 @@ class DetailActivity : AppCompatActivity(), View.OnClickListener {
 
         val tvDetailName: TextView = findViewById(R.id.tv_detail_name)
         val tvDetailDescription: TextView = findViewById(R.id.tv_detail_description)
+        val tvDetailRate: TextView = findViewById(R.id.tv_detail_rate)
         val ivDetailPhoto: ImageView = findViewById(R.id.iv_detail_photo)
 
 
@@ -42,6 +43,7 @@ class DetailActivity : AppCompatActivity(), View.OnClickListener {
         dataPiknik?.let { ivDetailPhoto.setImageResource(it.photo) }
         tvDetailName.text = dataPiknik?.name
         tvDetailDescription.text = dataPiknik?.description
+        tvDetailRate.text = dataPiknik?.rate
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {

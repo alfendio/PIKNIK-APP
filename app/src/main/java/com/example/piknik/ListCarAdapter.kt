@@ -23,7 +23,7 @@ class ListPiknikAdapter(private val listPiknik: ArrayList<Piknik>) : RecyclerVie
     }
 
     override fun onBindViewHolder(holder: ListViewHolder, position: Int) {
-        val (name, description, photo) = listPiknik[position]
+        val (name, description, rate, photo) = listPiknik[position]
         holder.imgPhoto.setImageResource(photo)
         holder.tvName.text = name
         holder.tvDescription.text = description

@@ -7,6 +7,7 @@ import kotlinx.android.parcel.Parcelize
 data class Piknik(
     val name: String,
     val description: String,
+    val rate : String,
     val photo: Int
 
 ) : Parcelable

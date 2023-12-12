@@ -28,10 +28,11 @@ class MainActivity : AppCompatActivity() {
 
         val dataName = resources.getStringArray(R.array.data_name)
         val dataDescription = resources.getStringArray(R.array.data_description)
+        val dataRate = resources.getStringArray(R.array.data_rate)
         val dataPhoto = resources.obtainTypedArray(R.array.data_photo)
         val listPiknik = ArrayList<Piknik>()
         for (i in dataName.indices) {
-            val piknik = Piknik(dataName[i], dataDescription[i], dataPhoto.getResourceId(i, -1))
+            val piknik = Piknik(dataName[i], dataDescription[i], dataRate[i], dataPhoto.getResourceId(i, -1))
             listPiknik.add(piknik)
         }
         return listPiknik
